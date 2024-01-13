@@ -1,3 +1,5 @@
+아래는 제가 실습한 학습자료와 안내의 링크입니다.
+
 ## << 학습 관련 자료 및 동영상 링크 >>
 
 ### 1일차 학습자료 및 과제
@@ -46,6 +48,6 @@
 [9일차 과제 답안 안내](https://quip.com/Y4NMAtljhc00)  
 
 ### 10일차 학습자료 및 과제  
-[10일차 학습 안내](https://quip.com/jw0vAKeRYzAy)
-[10일차 과제 안내](https://quip.com/13tLAT7kI1hh)
-[10일차 답안 안내](https://quip.com/JQe3A5CTSDU8)
+[10일차 학습 안내](https://quip.com/jw0vAKeRYzAy)  
+[10일차 과제 안내](https://quip.com/13tLAT7kI1hh)  
+[10일차 답안 안내](https://quip.com/JQe3A5CTSDU8)  
